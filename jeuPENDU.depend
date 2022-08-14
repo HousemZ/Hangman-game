@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1545068454 source:c:\users\dell\documents\jeupendu\saisie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1545088502 source:c:\users\dell\documents\jeupendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"saisie.h"
+
+1545087768 c:\users\dell\documents\jeupendu\saisie.h
+
+1545071030 source:c:\users\dell\documents\jeupendu\mot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545071495 source:c:\users\dell\documents\jeupendu\nbaleatoire.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1545074125 source:c:\users\dell\documents\jeupendu\motsecret.c
+	<stdio.h>
+	<stdlib.h>
+
+1545088502 source:c:\users\dell\documents\jeupendu\cur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"saisie.h"
+
+1545084661 source:c:\users\dell\documents\jeupendu\copie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1545086046 source:c:\users\dell\documents\jeupendu\recherche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
